@@ -1,0 +1,16 @@
+
+*.log
+*.tmp
+*.cache
+
+.DS_Store
+.vscode/
+.idea/
+
+*.env
+config/settings.json
+
+*.class
+*.o
+*.exe
+
